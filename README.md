@@ -8,5 +8,5 @@ I primarily work with Node.js (JavaScript and TypeScript) , with additional proj
 I am driven by curiosity and constantly exploring new ideas and technologies to improve system design and developer efficiency.
 
 Reach me on X: @mustapha4049
-Or via email 
+Or via email.
 Thank you.
